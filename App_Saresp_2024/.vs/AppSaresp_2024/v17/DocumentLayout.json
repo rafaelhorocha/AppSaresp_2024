@@ -1,0 +1,158 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Windows 11\\Downloads\\App_Saresp-main\\App_Saresp-main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\windows 11\\downloads\\app_saresp-main\\app_saresp-main\\appsaresp_2024\\repository\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\repository\\professorrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\windows 11\\downloads\\app_saresp-main\\app_saresp-main\\appsaresp_2024\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\models\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\windows 11\\downloads\\app_saresp-main\\app_saresp-main\\appsaresp_2024\\repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\repository\\alunorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\windows 11\\downloads\\app_saresp-main\\app_saresp-main\\appsaresp_2024\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\models\\professor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\windows 11\\downloads\\app_saresp-main\\app_saresp-main\\appsaresp_2024\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\controllers\\professorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\windows 11\\downloads\\app_saresp-main\\app_saresp-main\\appsaresp_2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\windows 11\\downloads\\app_saresp-main\\app_saresp-main\\appsaresp_2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|c:\\users\\windows 11\\downloads\\app_saresp-main\\app_saresp-main\\appsaresp_2024\\views\\professor\\atualizarprofessor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B7ADF4EF-620D-40BB-AC4D-3D23FE166A34}|AppSaresp_2024\\AppSaresp_2024.csproj|solutionrelative:appsaresp_2024\\views\\professor\\atualizarprofessor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Downloads\\App_Saresp-main\\App_Saresp-main\\AppSaresp_2024\\Models\\Aluno.cs",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Models\\Aluno.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Downloads\\App_Saresp-main\\App_Saresp-main\\AppSaresp_2024\\Models\\Aluno.cs",
+              "RelativeToolTip": "AppSaresp_2024\\Models\\Aluno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T21:53:29.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Downloads\\App_Saresp-main\\App_Saresp-main\\AppSaresp_2024\\appsettings.json",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\appsettings.json",
+              "ToolTip": "C:\\Users\\Windows 11\\Downloads\\App_Saresp-main\\App_Saresp-main\\AppSaresp_2024\\appsettings.json",
+              "RelativeToolTip": "AppSaresp_2024\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T21:50:07.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Professor.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Downloads\\App_Saresp-main\\App_Saresp-main\\AppSaresp_2024\\Models\\Professor.cs",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Models\\Professor.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Downloads\\App_Saresp-main\\App_Saresp-main\\AppSaresp_2024\\Models\\Professor.cs",
+              "RelativeToolTip": "AppSaresp_2024\\Models\\Professor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:41:39.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlunoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Downloads\\App_Saresp-main\\App_Saresp-main\\AppSaresp_2024\\Repository\\AlunoRepository.cs",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Repository\\AlunoRepository.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Downloads\\App_Saresp-main\\App_Saresp-main\\AppSaresp_2024\\Repository\\AlunoRepository.cs",
+              "RelativeToolTip": "AppSaresp_2024\\Repository\\AlunoRepository.cs",
+              "ViewState": "AQIAAH4AAAAAAAAAAAAcwF4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:31:42.448Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProfessorRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Downloads\\App_Saresp-main\\App_Saresp-main\\AppSaresp_2024\\Repository\\ProfessorRepository.cs",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Repository\\ProfessorRepository.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Downloads\\App_Saresp-main\\App_Saresp-main\\AppSaresp_2024\\Repository\\ProfessorRepository.cs",
+              "RelativeToolTip": "AppSaresp_2024\\Repository\\ProfessorRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAB5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T20:30:55.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Downloads\\App_Saresp-main\\App_Saresp-main\\AppSaresp_2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Windows 11\\Downloads\\App_Saresp-main\\App_Saresp-main\\AppSaresp_2024\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "AppSaresp_2024\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T20:27:24.166Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AtualizarProfessor.cshtml",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Downloads\\App_Saresp-main\\App_Saresp-main\\AppSaresp_2024\\Views\\Professor\\AtualizarProfessor.cshtml",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Views\\Professor\\AtualizarProfessor.cshtml",
+              "ToolTip": "C:\\Users\\Windows 11\\Downloads\\App_Saresp-main\\App_Saresp-main\\AppSaresp_2024\\Views\\Professor\\AtualizarProfessor.cshtml",
+              "RelativeToolTip": "AppSaresp_2024\\Views\\Professor\\AtualizarProfessor.cshtml",
+              "ViewState": "AQIAACMAAAAAAAAAAAAswDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-31T20:21:08.561Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProfessorController.cs",
+              "DocumentMoniker": "C:\\Users\\Windows 11\\Downloads\\App_Saresp-main\\App_Saresp-main\\AppSaresp_2024\\Controllers\\ProfessorController.cs",
+              "RelativeDocumentMoniker": "AppSaresp_2024\\Controllers\\ProfessorController.cs",
+              "ToolTip": "C:\\Users\\Windows 11\\Downloads\\App_Saresp-main\\App_Saresp-main\\AppSaresp_2024\\Controllers\\ProfessorController.cs",
+              "RelativeToolTip": "AppSaresp_2024\\Controllers\\ProfessorController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAgwC8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:32:49.264Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
